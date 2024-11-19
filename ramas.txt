@@ -4,3 +4,4 @@ cambio develop 1
 cambio develop 2
 cambio feature2 1
 cambio feature2 2
+cambio release 1
